@@ -25,7 +25,7 @@ struct MenuView: View {
             Text("ANI + Muisc Magazine")
                   .font(.largeTitle)
             Spacer()
-           
+           //bing
                 List{
                     Button("Issue 1"){ showingSheet.toggle()}
                         .sheet(isPresented: $showingSheet) { ContentView()}
