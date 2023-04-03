@@ -21,7 +21,7 @@
 		37015FC129CD2DC1009A13A7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		37015FC529CD2DC2009A13A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37015FC829CD2DC2009A13A7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		37015FD429CD3184009A13A7 /* magazine.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; name = magazine.rcproject; path = "../../challenge 3 magazine/magazine.rcproject"; sourceTree = "<group>"; };
+		37015FD429CD3184009A13A7 /* magazine.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; name = magazine.rcproject; path = "../challenge 3 magazine/magazine.rcproject"; sourceTree = SOURCE_ROOT; };
 		37015FD629CD32E3009A13A7 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
